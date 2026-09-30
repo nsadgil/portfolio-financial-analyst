@@ -1,12 +1,64 @@
-# 📊 Portfolio Financial Analyst - Data, Reporting & Due Diligence
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/a9d49e18-d1af-4676-8190-1c3bad662b30" />
+
+# Portfolio Financial Analyst - Data - Reporting & Due Diligence
 
 > De la donnée brute à la décision financière : Analyse commerciale, Comptabilité & Due Diligence
 
-Ce repository regroupe 3 projets complets réalisés sur données réelles (2024-2025) : analyse commerciale 360°, comptabilité générale et due diligence commerciale par bridge de marge.
+📍 Cotonou, Bénin — Remote 🌍 | 🕒 Réponse < 12h
+
+---
+
+## 📊 Projets phares
+
+### 1. P&L Bridge - Volume / Prix / Mix / COGS / FX
+Explication d'une variation de marge brute entre N et N-1.
+- Construction du bridge complet
+- Visualisation Waterfall
+
+→ Voir le projet : [03-bridge/ - Bridge de Marge](./03-bridge/)
+
+### 2. Dashboard Finance
+Dashboard interactif pour pilotage mensuel.
+- P&L / Bilan / TFT
+- BFR / Trésorerie
+
+→ Voir le projet : [04-kossou/ - Audit & Reporting](./04-kossou/)
+
+---
+
+## 📈 Cas pratique : Analyse de saisonnalité (Données réelles)
+
+Analyse de 12 mois pour identifier pics, creux et leviers de marge.
+
+**Insights clés :**
+- **Mars :** Pic d'activité +32,87% MoM (CA 177 631€, Résultat 61 191€)
+- **Septembre :** Anomalie critique - Résultat net chute à 4 802€ (-85%)
+- **Q4 :** 38% du CA annuel concentré sur Oct-Nov-Dec = forte saisonnalité fin d'année
+- **Marge moyenne :** ~31% avec volatilité liée au COGS
+
+**Méthodologie :** Nettoyage balance -> Calcul MoM% -> Visualisation bi-axes CA/Résultat vs Variation
+
+**Fichiers :** `data/` contient les sources Excel nettoyées.
+
+---
 
 ## 🛠️ Stack
-`SQLite` `Python (Pandas)` `SQL Window Functions` `Statistics (IQR, Correlation)` `Excel Finance` `Matplotlib / Seaborn` `Git`
+Excel Avancé | Power BI (DAX, Power Query) | Python (Pandas) | P&L, Budget vs Actual, Bridge
 
+## 📬 Contact - **Disponible pour missions FP&A / Contrôle de gestion**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gildasnk/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsadgil@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22968175942)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gildasnk)
+
+---
+
+<details>
+<summary>🔍 Voir le détail technique complet (SQL, Python, IQR, Window Functions)</summary>
+
+    Ce repository regroupe 3 projets complets réalisés sur données réelles (2024-2025) : analyse commerciale 360°, comptabilité générale et due diligence commerciale par bridge de marge.
+    
 ---
 
 ## 📁 Structure du Repository
@@ -103,15 +155,4 @@ Ce repository regroupe 3 projets complets réalisés sur données réelles (2024
 - Bridge réconcilié : 8 546 824€ d'effet volume, -5 648 141€ effet COGS
 - 14 onglets Excel audités + 8 visualisations
 
-### 👤 Auteur - Gildas N.
-
-**Financial Analyst | Data & Reporting**
-
-> Disponible pour missions freelance : Reporting & Trésorerie, Audit flash, P&L & Bridge de marge
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gildasnk/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsadgil@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22968175942)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gildasnk)
-
-📍 Cotonou, Bénin — Remote 🌍 | 🕒 Réponse < 12h
+</details>
