@@ -1,6 +1,6 @@
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/a9d49e18-d1af-4676-8190-1c3bad662b30" />
 
-# Portfolio Financial Analyst - Data - Reporting & Due Diligence
+# Portfolio Financial Analyst - Data - Reporting & Due Diligence 
 
 > De la donnée brute à la décision financière : Analyse commerciale, Comptabilité & Due Diligence
 
