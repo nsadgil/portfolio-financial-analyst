@@ -4,7 +4,7 @@
 
 > De la donnée brute à la décision financière : Analyse commerciale, Comptabilité & Due Diligence
 
-📍 Cotonou, Bénin — Remote 🌍 | 🕒 Réponse < 12h
+📍 Cotonou, Bénin - Remote 🌍 | 🕒 Réponse < 12h
 
 ---
 
