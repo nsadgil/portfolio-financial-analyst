@@ -1,4 +1,4 @@
-# 01 - AFRITECH Distribution - Analyse 360° (2024-2025)
+# 01 - AFRITECH Distribution - Analyse 360° (2024-2025) 
 
 > De la donnée brute SQLite à l'insight business : SQL avancé + Python + Stats appliquée + Finance
 
